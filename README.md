@@ -13,6 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
-
-task to add
+2023 XYZ, Inc.

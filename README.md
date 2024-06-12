@@ -15,4 +15,3 @@ Output
 
 _© 2023 XYZ, Inc._
 
-git merge

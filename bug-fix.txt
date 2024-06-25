@@ -1,0 +1,2 @@
+Summary
+Congratulations! You have completed both parts of the final project. You have demonstrated that you know how to create an open-source project in Git, make changes to that project, and make it available to the community. You can fork a GitHub repository, clone it to your local system, make changes to the local repository, commit the changes locally, push it back to your GitHub fork, and create a pull request to add your update to the original repository.

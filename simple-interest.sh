@@ -1,4 +1,5 @@
 #!/bin/bash
+# THIS IS ME UPDATING the file, 'simple-interest.sh' using 'nano' command to open/edit the file using my  Terminal.
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 

@@ -1,4 +1,3 @@
-# THESE ARE MY UPDATES to the file 'compound_interest.py' using the nano command to open/edit the file using my Terminal 
 # This script calculates yearly compound interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 

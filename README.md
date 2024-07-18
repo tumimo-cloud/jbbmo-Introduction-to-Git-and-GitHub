@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2024 XYZ, Inc._
+
+Fix typo in README.md footer from 2022 to 2024

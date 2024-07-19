@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-2023 XYZ, Inc. # Here is another update by Philophrosyne21
+2022 XYZ, Inc. # Here is the revert updated by Philophrosyne21

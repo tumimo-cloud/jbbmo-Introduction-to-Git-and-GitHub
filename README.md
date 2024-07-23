@@ -13,4 +13,12 @@ Output
    simple interest = p*t*r
 ```
 
+HEAD
 _© 2022 XYZ, Inc._
+
+_© 2023 XYZ, Inc._
+HEAD
+
+
+ 5abcdf6 (Fix typo in footer)
+>>>>>>> cbc3a8d (Resolve merge conflict in README.md)

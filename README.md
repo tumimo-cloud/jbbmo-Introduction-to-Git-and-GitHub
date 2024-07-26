@@ -12,6 +12,7 @@ Input:
 Output
    simple interest = p*t*r
 simple interest = a*b*c
+simple interest = e*f*g
 ```
 
 _© 2022 XYZ, Inc._

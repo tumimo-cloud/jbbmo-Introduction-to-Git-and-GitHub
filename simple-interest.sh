@@ -21,6 +21,7 @@ read r
 echo "Enter time period in years:"
 read t
 
-s=$(expr $p \* $t \* $r / 100)
+# Calculate simple interest using bc for floating-point precision
+interest=$(echo "scale=2; ($principal * $rate * $time) / 100" | bc)
 echo "The simple interest is: "
-echo $s
+echo $interest

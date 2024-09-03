@@ -14,5 +14,3 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
-
-This change was made in dev branch 

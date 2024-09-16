@@ -3,19 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
+# C extensions.Pyth
+develop-e
 dist/
 downloads/
-eggs/
+eg
 .eggs/
 lib/
-lib64/
+lib64
 parts/
 sdist/
 var/
